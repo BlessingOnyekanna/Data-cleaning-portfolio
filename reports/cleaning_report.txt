@@ -1,0 +1,62 @@
+======================================================================
+DATA CLEANING REPORT
+======================================================================
+
+OVERVIEW
+----------------------------------------------------------------------
+Original rows: 250
+Cleaned rows: 215
+Rows removed: 35
+Columns: 10
+
+CLEANING ACTIONS PERFORMED
+----------------------------------------------------------------------
+1. Duplicate rows removed: 35
+2. Whitespace cleaned in text fields: 31
+3. Invalid emails removed: 48
+4. Invalid dates removed: 14
+5. Invalid quantities removed: 14
+6. Category variations consolidated: 12
+7. Status variations consolidated: 16
+
+DATA QUALITY COMPARISON
+----------------------------------------------------------------------
+Field                Missing Before       Missing After       
+----------------------------------------------------------------------
+order_id             0                    0                   
+customer_name        0                    0                   
+email                34                   48                  
+phone                41                   36                  
+order_date           2                    16                  
+product_name         0                    0                   
+category             0                    0                   
+quantity             0                    14                  
+price                6                    4                   
+status               0                    0                   
+
+FINAL CLEANED DATA STATISTICS
+----------------------------------------------------------------------
+Total valid orders: 215
+Unique customers: 176
+Date range: 2023-01-02 to 2024-02-02
+Total revenue: $60,639.82
+Average order value: $287.39
+Total items sold: 1158
+
+CATEGORY BREAKDOWN
+----------------------------------------------------------------------
+Clothing             62         (28.8%)
+Home & Garden        57         (26.5%)
+Electronics          52         (24.2%)
+Books                44         (20.5%)
+
+ORDER STATUS BREAKDOWN
+----------------------------------------------------------------------
+Cancelled            61         (28.4%)
+Pending              59         (27.4%)
+Delivered            49         (22.8%)
+Shipped              46         (21.4%)
+
+======================================================================
+END OF REPORT
+======================================================================

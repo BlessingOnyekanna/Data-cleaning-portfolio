@@ -1,0 +1,251 @@
+order_id,customer_name,email,phone,order_date,product_name,category,quantity,price,status
+#1000,Sarah Smith,sarah.smith@example.com,(289)-804-7912,12/13/2025,Running Shoes,Clothing,8,$357.66,Shippd
+ORD1001,JAMES RODRIGUEZ,,,"Jan 23, 2023",AirPods,Electronics,10,$123.44,SHIPPED
+1002,Michael Davis,michael.davis@example.com,414.886.5374,08-11-2023,Mens T-shirt,Clothing,6,507.27,Deliverd
+ORD-1003,William	Williams,william.williams@example.com,346-471-3287,18 January 2024,data science handbook,BOOKS,2,$100.17,CNCLLD
+order1004,michael wilson,michael.wilson@example.com,3178989797,"May 31, 2023",Jeans,Clothing,3,$309.52,Complete
+order1005,  Matthew  Miller  ,matthew.miller@example.com,7002192832,07-06-2023,Samsung Galaxy,Elec,3,85.74,cancelled
+1006,Daniel Miller,daniel.miller@example.com,(323)-453-4681,28 April 2023,Men's T-Shirt,Clothing,6,$51.8,cancelled
+order1007,Daniel Jones,daniel.jones@example.com,2962998062,01/09/2024,iPhone13,Electronics,9,274.67,CNCLLD
+order1008,Sarah Johnson,sarah.johnson@example.com,(370) 616-8956,31-01-2023,python programming,Book,9,400.49,PENDING
+order1009,Jane Johnson,  jane.johnson@example.com  ,270.809.2113,19-10-2023,iPhone13,Electronics,6,150.81,Pending
+ORD1010,Thomas Lee,,(471)-335-6718,"Mar 22, 2023",COFFEE MAKER,Home & Garden,2,$448.02,Complete
+order1011,ROBERT HERNANDEZ,robert.hernandez@example.com,,2023-01-02,RUNNING SHOES,Clot,2,$567.57,PENDING
+ORD1012,  Michelle  Jackson  ,michelle.jackson@example.com,566.415.5088,28 July 2023,mens tshirt,Clothing,6,471.6,Shipped
+#1013,Richard Johnson,richard.johnson@example.com,433.428.1387,2023-02-05,VacuumCleaner,Home & Garden,5,32.56,Pnding
+ORD1014,michelle miller,michelle.miller@example.com,9548864228,19 June 2023,COFFEE MAKER,Home & Garden,9,85.09,Deliverd
+1015,  Daniel  Smith  ,daniel.smith@example.com,(891) 418-9375,12-01-2024,MacBook  Pro,ELECTRONICS,1,37.26,Shippd
+ORD1016,Christopher Wilson,christopher.wilson@example.com,(675)-251-5082,08 December 2023,Vaccuum Cleaner,Home & Garden,8,275.53,cancelled
+#1017,WILLIAM TAYLOR,william.taylor@example.com,,28-12-2023,AIRPODS,Electronics,7,543.84,Canceled
+1018,john lopez,john.lopez@example.com,(699) 424-5471,"Dec 09, 2023",jeans,Clothing,1,59.52,delivered
+ORD-1019,thomas hernandez,THOMAS.HERNANDEZ@EXAMPLE.COM,,29-06-2023,iPhone 13,Electronics,0,$99.9,P
+ORD-1020,Robert Taylor,robert.taylor@example.com,,25 February 2023,Macbook Pro,Electronics,4,70.11,PENDING
+ORD-1021,Jennifer Williams,,7013088102,29-12-2023,PYTHON PROGRAMMING,Books,8,284.27,PENDING
+1022,Lisa Taylor,lisa.taylor@example.com,5634646576,22 May 2023,Samsung Galaxy,Elec,8,$274.41,delivered
+ORD-1023,Lisa Martinez,lisa.martinez@example.com,5385608434,05-01-2024,coffee maker,Home,10,$176.96,SHIPPED
+#1024,Emily	Martinez,emily.martinez@example.com,(329)-853-9042,"Aug 29, 2023",Data Science Handbook,Books,2,$246.41,pending
+1018,john lopez,JOHN.LOPEZ@EXAMPLE.COM,(699) 424-5471,"Dec 09, 2023",jeans,Clothing,1,59.52,delivered
+order1026,Daniel Anderson,daniel.anderson@example.com,+1-802-639-6003,01/14/2024,running shoes,Clothing,1,251.02,DELIVERED
+ORD-1027,Thomas Williams,thomas.williams@example.com,635-317-9922,03/14/2023,SAMSUNG GALAXY,Electronics,8,416.31,P
+#1013,Richard Johnson,richard.johnson@example.com,433.428.1387,2023-02-05,VacuumCleaner,Home & Garden,5,32.56,Pnding
+order1007,Daniel Jones,daniel.jones@example.com,2962998062,01/09/2024,iPhone13,Electronics,9,274.67,CNCLLD
+#1030,John Rodriguez,john.rodriguez@example.com,,09/09/2023,data science handbook,Books,8,180.04,DELIVERED
+ORD1031,Richard Moore,richard.moore@example.com,,"Nov 17, 2023",SAMSUNG GALAXY,Electronics,2,27.02,P
+ORD1032,Lisa Brown,lisa.brown@example.com,(922) 479-7807,10-10-2023,PYTHON PROGRAMMING,Books,7,210.52,Complete
+1033,Christopher Jones,christopher.jones@example.com,+1-529-393-4912,07/30/2023,Vaccuum Cleaner,Home & Garden,8,$579.24,Delivered
+1034,Thomas Brown,,,"Feb 08, 2023",Vaccuum Cleaner,Home & Garden,7,572.93,pending
+1035,Maria Davis,maria.davis@example.com,,01/15/2023,COFFEE MAKER,Home & Garden,3,$110.28,CNCLLD
+ORD-1036,christopher martin,christopher.martin@example.com,494-893-9955,2023-10-28,data science handbook,Books,4,,CANCELLED
+ORD-1003,William	Williams,william.williams@example.com,346-471-3287,18 January 2024,data science handbook,BOOKS,2,$100.17,CNCLLD
+ORD-1038,Maria Davis,  maria.davis@example.com  ,897.340.2591,08/14/2023,Coffee Maker,Home & Garden,9,527.1,CANCELLED
+ORD1039,James Brown,,+1-892-941-7511,2023-01-08,Air Pods,Electronics,6,$73.91,P
+#1040,Daniel Hernandez,daniel.hernandez@example.com,864-618-2911,11/20/2025,Vacuum Cleaner,Home and Garden,9,257.27,CNCLLD
+#1041,William Johnson,william.johnson@example.com,,2023-11-27,Air Pods,Electronics,4,$388.60,delivered
+#1042,Michelle	Miller,  michelle.miller@example.com  ,810-202-5542,03/31/2023,Samsung Galaxy,Electronics,5,40.91,Complete
+ORD1043,Thomas	Moore,thomas.moore@example.com,(858) 231-1996,"Feb 25, 2023",Python Programming,Books,10,333.52,Cancelled
+#1044,Sarah Jackson,sarah.jackson@example.com,6086252557,11-07-2023,Python Programming,Books,3,338.25,Deliverd
+ORD-1045,Jane Martinez,,358-872-8900,2023-10-12,macbook pro,Electronics,10,408.23,pending
+#1046,  Maria  Hernandez  ,  maria.hernandez@example.com  ,,"Aug 03, 2023",COFFEE MAKER,Home & Garden,1,$101.78,PENDING
+1047,Linda Thomas,LINDA.THOMAS@EXAMPLE.COM,+1-894-807-8972,22 July 2023,iphone 13,Electronics,6,80.78,Ship
+1048,Jennifer Williams,,+1-520-789-8033,05/29/2023,python programming,Books,7,$508.24,CNCLLD
+ORD-1019,thomas hernandez,THOMAS.HERNANDEZ@EXAMPLE.COM,,29-06-2023,iPhone 13,Electronics,0,$99.9,P
+order1050,Michael Moore,michael.moore@example.com,(860)-351-4871,05-11-2023,SamsungGalaxy,Electronics,10,389.36,Cancelled
+ORD-1051,Maria Rodriguez,maria.rodriguez@example.com,,16 February 2023,DataScience Handbook,Books,10,394.57,PENDING
+ORD1052,Michael Moore,michael.moore@example.com,3625727108,14 December 2023,MacBook Pro,Electronics,10,525.23,cancelled
+ORD-1053,Michael Martinez,michael.martinez@example.com,901.739.2531,2023-01-10,coffee maker,Home & Garden,3,$55.52,PENDING
+#1054,Matthew Jones,matthew.jones@example.com,(369)-938-8170,"May 02, 2023",vacuum cleaner,Home & Garden,4,227.02,CNCLLD
+#1055,Emily Miller,emily miller@email.com,(767)-305-9452,"May 20, 2023",Jeans,Clothing,1,254.78,Shipped
+#1056,Sarah Hernandez,,683.912.3273,02/10/2023,coffee maker,Home & Garden,5,$150.2,Shippd
+order1057,matthew taylor,matthew.taylor@example.com,+1-498-639-1025,04/06/2023,Coffee Maker,Home & Garden,5,$450.91,Shipped
+ORD-1058,James	Jones,james.jones@example.com,912-690-3986,08/23/2023,Coffee Maker,Home & Garden,7,593.57,Delivered
+1059,JAMES RODRIGUEZ,james.rodriguez@example.com,3917089151,"Feb 12, 2023",airpods,Electronics,5,273.08,Complete
+ORD-1060,william johnson,WILLIAM.JOHNSON@EXAMPLE.COM,894-648-1570,2023-07-07,PYTHON PROGRAMMING,Book,10,91.23,pending
+1061,RICHARD JACKSON,richard.jackson@example.com,(404)-325-3223,08/16/2023,Vacuum Cleaner,Home & Garden,3,$478.27,shipped
+ORD-1062,Christopher	Smith,  christopher.smith@example.com  ,,03 September 2023,DataScience Handbook,books,6,85.71,Shippd
+ORD-1063,Jane Brown,jane.brown@example.com,7314902292,21-05-2023,coffee maker,Home & Garden,10,$209.19,Pending
+#1055,Emily Miller,EMILY MILLER@EMAIL.COM,(767)-305-9452,"May 20, 2023",Jeans,Clothing,1,254.78,Shipped
+ORD1065,Michelle Anderson,  michelle.anderson@example.com  ,(901) 615-5873,"Aug 14, 2023",Data Science Handbook,Books,6,$585.46,Complete
+ORD-1066,James Davis,  james.davis@example.com  ,6284543616,08-04-2023,data science handbook,Books,8,$580.34,Delivered
+1048,Jennifer Williams,,+1-520-789-8033,05/29/2023,python programming,Books,7,$508.24,CNCLLD
+1068,Maria Jackson,,5749827606,11/22/2025,JEANS,Clothing,10,$411.43,Pnding
+#1069,James Jackson,james.jackson@example.com,,31 August 2023,PYTHON PROGRAMMING,Books,7,594.45,CNCLLD
+1070,John Lopez,john.lopez@example.com,2278118775,02 February 2024,Running Shoes,Clothing,7,$97.18,pending
+#1041,William Johnson,william.johnson@example.com,,2023-11-27,Air Pods,Electronics,4,$388.60,delivered
+ORD1072,Jessica Lee,jessica.lee@example.com,6897387173,2023-09-30,Vaccuum Cleaner,HOME & GARDEN,5,464.98,DELIVERED
+ORD-1066,James Davis,  james.davis@example.com  ,6284543616,08-04-2023,data science handbook,Books,8,$580.34,Delivered
+ORD1074,JENNIFER JONES,JENNIFER.JONES@EXAMPLE.COM,751-477-5450,03-05-2023,samsung galaxy,Elec,3,13.05,Canceled
+ORD1075,Maria Hernandez,maria.hernandez@example.com,238-379-7846,"Jul 23, 2023",RUNNING SHOES,Clothing,-5,365.63,cancelled
+ORD-1076,Thomas Rodriguez,THOMAS.RODRIGUEZ@EXAMPLE.COM,502-781-4164,"Jul 27, 2023",CoffeeMaker,Home & Garden,4,14.02,PENDING
+1077,Lisa Johnson,lisa.johnson@example.com,920.988.6095,2023-06-01,mens tshirt,Clothing,9,548.54,P
+ORD1078,Jennifer Williams,,717-407-9792,08/15/2023,RunningShoes,Clothing,7,$279.5,CANCELLED
+#1079,Richard Rodriguez,@rodriguez.com,(754) 261-2130,01/07/2026,Mens T-shirt,Clothing,7,231.62,Delivered
+#1080,Daniel Wilson,daniel.wilson@example.com,+1-936-757-7948,2023-08-24,jeans,Clothing,7,372.79,Pnding
+1081,Jane Davis,jane.davis@example.com,343-715-5739,13 June 2023,COFFEE MAKER,Home & Garden,5,45.96,CNCLLD
+ORD-1082,Jennifer Wilson,JENNIFER.WILSON@EXAMPLE.COM,446.430.5927,30 January 2023,DataScience Handbook,Books,2,$554.10,Shipped
+#1083,Matthew Lee,matthew.lee@example.com,(413)-540-5967,01/15/2024,PYTHON PROGRAMMING,Books,5,234.58,Canceled
+#1080,Daniel Wilson,daniel.wilson@example.com,+1-936-757-7948,2023-08-24,jeans,Clothing,7,372.79,Pnding
+order1085,Jennifer Hernandez,  jennifer.hernandez@example.com  ,937-627-5836,19-10-2023,data science handbook,Books,8,109.25,P
+#1040,Daniel Hernandez,daniel.hernandez@example.com,864-618-2911,11/20/2025,Vacuum Cleaner,Home and Garden,9,257.27,CNCLLD
+#1087,Linda Jones,,,31 January 2023,Data Science Handbook,Books,0,436.08,cancelled
+#1044,Sarah Jackson,SARAH.JACKSON@EXAMPLE.COM,6086252557,11-07-2023,Python Programming,Books,3,338.25,Deliverd
+ORD1089,william lopez,william.lopez@example.com,431.507.2320,01/17/2023,data science handbook,Books,0,111.11,P
+order1090,Lisa Miller,lisa.miller,487-756-1539,17 April 2023,RunningShoes,Clothing,7,409.44,P
+ORD1091,  Jennifer  Johnson  ,jennifer.johnson@example.com,992.534.1485,09-09-2023,Vaccuum Cleaner,Home and Garden,4,$430.72,Shippd
+ORD1092,David Wilson,,(568)-979-5419,18 August 2023,Python Programming,Books,7,17.27,Ship
+ORD-1093,RICHARD GARCIA,richard garcia@email.com,5066952260,"Nov 17, 2023",Jeans,Clothing,6,269.72,DELIVERED
+ORD-1094,robert thomas,robert.thomas@example.com,4485337161,28 February 2023,running shoes,Clothing,4,268.68,Canceled
+#1055,Emily Miller,EMILY MILLER@EMAIL.COM,(767)-305-9452,"May 20, 2023",Jeans,Clothing,1,254.78,Shipped
+order1096,Richard Williams,richard.williams@example.com,(908)-628-9907,02 October 2023,iphone 13,Electronics,7,580.41,Ship
+#1097,Daniel Martin,daniel.martin@example.com,(712)-354-6651,02/13/2023,JEANS,Clothing,2,268.51,Pending
+#1098,Sarah Garcia,sarah.garcia@example.com,673.437.7636,"Aug 10, 2023",SamsungGalaxy,Electronics,2,350.63,PENDING
+ORD-1099,Christopher Moore,christopher.moore@example.com,668.832.3826,11 November 2023,SAMSUNG GALAXY,electronics,7,$256.75,Canceled
+1100,Daniel Garcia,daniel.garcia@example.com,567-209-8939,15 October 2023,DataScience Handbook,Books,10,28.2,Shippd
+order1101,Christopher Jackson,,575.755.1681,08/06/2023,Jeans,Clothing,2,$467.61,Complete
+#1102,  Emily  Lee  ,emily.lee@example.com,3725315794,09/21/2023,Jeans,Clothing,4,96.27,Ship
+ORD1103,Linda Wilson,linda.wilson@example.com,+1-665-699-6362,02/23/2026,Air Pods,Electronics,4,301.87,CANCELLED
+ORD1104,jane johnson,,(651) 667-1011,2023-03-09,Jeans,Clothing,3,40.54,Pending
+order1085,Jennifer Hernandez,  jennifer.hernandez@example.com  ,937-627-5836,19-10-2023,data science handbook,Books,8,109.25,P
+ORD1106,THOMAS SMITH,THOMAS.SMITH@EXAMPLE.COM,9483042690,15-07-2023,Men's T-Shirt,Clothing,3,552.73,Shipped
+ORD-1107,Richard Lopez,richard.lopez@example.com,815.814.5668,02/08/2026,coffee maker,Home & Garden,4,$301.97,CNCLLD
+ORD-1058,James	Jones,james.jones@example.com,912-690-3986,08/23/2023,Coffee Maker,Home & Garden,7,593.57,Delivered
+#1055,Emily Miller,EMILY MILLER@EMAIL.COM,(767)-305-9452,"May 20, 2023",Jeans,Clothing,1,254.78,Shipped
+ORD1110,Christopher Williams,christopher.williams,607.718.5693,"Aug 05, 2023",SAMSUNG GALAXY,Electronics,9,202.77,Deliverd
+ORD1111,lisa johnson,lisa.johnson@example.com,(958)-379-2956,"Mar 25, 2023",vacuum cleaner,Home & Garden,2,$465.13,CANCELLED
+1112,William Martin,william.martin@example.com,(576)-361-5179,01-03-2023,iPhone 13,Elec,1,336.18,CANCELLED
+ORD1113,Michael	Martin,michael.martin@example.com,2706765625,2023-01-05,JEANS,Clothing,4,442.14,pending
+ORD-1114,john hernandez,,(443)-629-9061,05/24/2023,SamsungGalaxy,Electronics,2,308.19,shipped
+ORD-1115,James Wilson,JAMES.WILSON@EXAMPLE.COM,(798)-311-3546,07/28/2023,CoffeeMaker,Home & Garden,5,$497.56,delivered
+1081,Jane Davis,jane.davis@example.com,343-715-5739,13 June 2023,COFFEE MAKER,Home & Garden,5,45.96,CNCLLD
+#1040,Daniel Hernandez,daniel.hernandez@example.com,864-618-2911,11/20/2025,Vacuum Cleaner,Home and Garden,9,257.27,CNCLLD
+ORD-1093,RICHARD GARCIA,richard garcia@email.com,5066952260,"Nov 17, 2023",Jeans,Clothing,6,269.72,DELIVERED
+ORD1119,  Sarah  Taylor  ,,(427) 333-4246,11/27/2023,Coffee Maker,Home & Garden,2,543.99,Cancelled
+1120,Michelle Anderson,michelle.anderson@example.com,(391) 481-5585,14 November 2023,RUNNING SHOES,Clothing,7,$90.96,Ship
+1121,Richard Lopez,richard.lopez@example.com,(226)-526-4588,"Jan 30, 2023",coffee maker,HOME & GARDEN,1,460.78,shipped
+ORD1122,James Lopez,james.lopez@example.com,,10 September 2023,CoffeeMaker,Home & Garden,1,205.71,Delivered
+ORD1110,Christopher Williams,CHRISTOPHER.WILLIAMS,607.718.5693,"Aug 05, 2023",SAMSUNG GALAXY,Electronics,9,202.77,Deliverd
+ORD-1107,Richard Lopez,richard.lopez@example.com,815.814.5668,02/08/2026,coffee maker,Home & Garden,4,$301.97,CNCLLD
+ORD-1125,RICHARD MARTIN,,,2023-09-07,RUNNING SHOES,Clothing,5,85.13,pending
+ORD1126,Matthew Davis,matthew.davis@example.com,527.371.2453,"Jun 21, 2023",macbook pro,Electronics,1,237.69,CANCELLED
+order1127,Sarah Thomas,SARAH.THOMAS@EXAMPLE.COM,5012206221,"Mar 29, 2023",Running Shoes,Clothing,10,536.99,cancelled
+ORD-1099,Christopher Moore,CHRISTOPHER.MOORE@EXAMPLE.COM,668.832.3826,11 November 2023,SAMSUNG GALAXY,electronics,7,$256.75,Canceled
+ORD-1129,Daniel Rodriguez,invalidemail,7023571893,11/27/2025,vacuum cleaner,HOME & GARDEN,2,191.92,cancelled
+ORD-1130,Richard Lopez,richard.lopez@example.com,(354)-970-2584,31 July 2023,Running Shoes,Clothing,8,$347.89,Delivered
+order1131,Jane Moore,jane.moore@example.com,,27-03-2023,Men's T-Shirt,Clothing,3,502.11,CNCLLD
+ORD1132,James Rodriguez,james.rodriguez@example.com,+1-624-353-3428,02/21/2023,MacBook  Pro,Electronics,8,$32.09,Cancelled
+ORD-1133,james davis,@davis.com,703-912-2609,2023-08-15,Vacuum Cleaner,HOME & GARDEN,9,521.63,cancelled
+#1134,  Jessica  Martin  ,jessica.martin@example.com,9214035488,11/22/2023,SAMSUNG GALAXY,Electronics,9,$216.35,Delivered
+#1135,Richard	Johnson,richard.johnson@example.com,619.725.1328,12/02/2025,Running Shoes,Clothing,5,260.04,CNCLLD
+ORD-1093,RICHARD GARCIA,richard garcia@email.com,5066952260,"Nov 17, 2023",Jeans,Clothing,6,269.72,DELIVERED
+ORD-1137,Daniel Lee,daniel.lee@example.com,532.483.5278,02-06-2023,running shoes,Clothing,6,411.64,Canceled
+order1138,Jane Martin,jane.martin@example.com,+1-853-687-6873,03 December 2023,Jeans,Clothing,3,568.67,Deliverd
+1139,JAMES LOPEZ,james.lopez@example.com,835-272-8736,15 July 2023,Vacuum Cleaner,Home & Garden,10,$536.77,Shipped
+ORD1140,Emily Hernandez,emily.hernandez@example.com,362-701-2442,"Jul 26, 2023",Data Science Handbook,BOOKS,9,122.43,DELIVERED
+ORD-1115,James Wilson,JAMES.WILSON@EXAMPLE.COM,(798)-311-3546,07/28/2023,CoffeeMaker,Home & Garden,5,$497.56,delivered
+ORD-1094,robert thomas,ROBERT.THOMAS@EXAMPLE.COM,4485337161,28 February 2023,running shoes,Clothing,4,268.68,Canceled
+ORD-1143,  Matthew  Moore  ,matthew.moore@example.com,,10-01-2023,running shoes,Clothing,1,231.35,Pending
+1144,John Johnson,  john.johnson@example.com  ,9028451152,2023-09-24,Jeans,Clothing,8,$127.19,Complete
+order1145,Jennifer Anderson,jennifer.anderson@example.com,(202)-213-2458,03/18/2023,IPHONE 13,Electronics,1,$68.88,PENDING
+ORD1146,James Anderson,JAMES.ANDERSON@EXAMPLE.COM,+1-536-566-8171,2023-07-10,Mens T-shirt,Clothing,8,481.93,pending
+#1134,Jessica  Martin,jessica.martin@example.com,9214035488,11/22/2023,SAMSUNG GALAXY,Electronics,9,$216.35,Delivered
+order1148,Matthew Wilson,,(944) 333-8914,01/24/2023,Vacuum Cleaner,Home & Garden,10,142.14,Pnding
+#1149,lisa thomas,lisa.thomas@example.com,,"Aug 29, 2023",Mens T-shirt,Clothing,9,389.55,Cancelled
+ORD1150,thomas hernandez,,(770)-762-1002,2023-11-23,RunningShoes,Clothing,8,205.85,Cancelled
+ORD-1143,Matthew  Moore,matthew.moore@example.com,,10-01-2023,running shoes,Clothing,1,231.35,Pending
+ORD1152,Maria Jackson,,,"Jan 05, 2024",macbook pro,Elec,6,73.57,Canceled
+ORD1153,Jessica Jones,jessica jones@email.com,694.720.3903,03/07/2023,DataScience Handbook,Books,4,171.41,CNCLLD
+order1154,Jessica Martinez,jessica.martinez@example.com,405.414.5760,30-12-2023,COFFEE MAKER,Home & Garden,9,,Shipped
+#1155,Robert Rodriguez,ROBERT.RODRIGUEZ@EXAMPLE.COM,(408)-971-9866,12 November 2023,RunningShoes,clothing,0,235.12,Pending
+1156,Robert Lee,robert.lee@example.com,973.802.9955,2023-04-10,PYTHON PROGRAMMING,BOOKS,5,$338.38,Delivered
+order1157,DAVID JOHNSON,,(830) 877-5934,2023-02-07,Men's T-Shirt,Clothing,6,$140.5,DELIVERED
+order1158,Robert Lee,  robert.lee@example.com  ,(857)-828-4994,"Feb 28, 2023",Vacuum Cleaner,Home & Garden,8,297.2,pending
+#1159,Daniel Jackson,daniel.jackson@example.com,306.410.9810,08/11/2023,Mens T-shirt,Clothing,-1,42.01,Deliverd
+ORD1160,richard anderson,richard.anderson@example.com,7992462189,2023-12-18,Macbook Pro,Electronics,0,$102.22,CNCLLD
+ORD-1161,David Martinez,invalidemail,,01/28/2026,python programming,books,3,$104.95,delivered
+order1154,Jessica Martinez,jessica.martinez@example.com,405.414.5760,30-12-2023,COFFEE MAKER,Home & Garden,9,,Shipped
+ORD1163,Daniel Taylor,daniel.taylor,,02-07-2023,MEN'S T-SHIRT,Clothing,10,399.05,cancelled
+ORD-1129,Daniel Rodriguez,invalidemail,7023571893,11/27/2025,vacuum cleaner,HOME & GARDEN,2,191.92,cancelled
+1165,WILLIAM LOPEZ,william.lopez@example.com,3798612343,03-10-2023,Coffee Maker,Home & Garden,10,249.02,cancelled
+ORD-1166,Lisa Martin,,+1-292-606-6961,12/16/2025,running shoes,Clothing,3,444.18,PENDING
+ORD-1167,Jane Miller,jane.miller@example.com,,2023-09-24,CoffeeMaker,Home & Garden,9,158.43,Deliverd
+#1168,Matthew Smith,matthew.smith@example.com,3533913578,05-12-2023,DataScience Handbook,Book,7,$23.23,shipped
+ORD-1169,  Jane  Martin  ,jane.martin@example.com,(852)-219-5644,"Aug 30, 2023",Mens T-shirt,Clothing,9,166.06,Shippd
+1170,Sarah	Smith,  sarah.smith@example.com  ,(744)-715-2925,05 November 2023,AIRPODS,Electronics,-5,263.07,Pnding
+ORD-1143,Matthew  Moore,matthew.moore@example.com,,10-01-2023,running shoes,Clothing,1,231.35,Pending
+ORD1160,richard anderson,richard.anderson@example.com,7992462189,2023-12-18,Macbook Pro,Electronics,0,$102.22,CNCLLD
+order1173,John Martin,,9045237698,2023-10-27,VacuumCleaner,Home & Garden,9,472.43,Complete
+ORD1174,Richard Jones,richard.jones@example.com,,23 June 2023,SamsungGalaxy,Electronics,-1,495.71,delivered
+1175,Matthew Johnson,matthew.johnson@example.com,(992) 379-9099,02/08/2026,Coffee Maker,Home & Garden,1,222.24,Deliverd
+order1176,Richard Wilson,,292.762.5661,2023-06-28,coffee maker,Home & Garden,0,113.26,P
+1177,daniel martin,daniel.martin@example.com,+1-669-897-8548,05/13/2023,PYTHON PROGRAMMING,Books,9,15.73,Delivered
+order1178,  Emily  Thomas  ,emily.thomas@example.com,710-954-4271,16-04-2023,MEN'S T-SHIRT,Clothing,8,372.15,CANCELLED
+1179,Christopher Martin,christopher.martin@example.com,(968)-790-3101,10/04/2023,vacuum cleaner,Home & Garden,1,$16.96,PENDING
+#1180,William Garcia,william.garcia@example.com,,2024-01-21,VacuumCleaner,Home & Garden,2,435.27,Shippd
+order1181,Emily Anderson,emily.anderson@example.com,(781)-248-7527,"May 11, 2023",Air Pods,electronics,1,252.93,SHIPPED
+1182,Jessica Thomas,  jessica.thomas@example.com  ,,"Jun 22, 2023",Python Programming,BOOKS,10,390.33,Canceled
+ORD-1183,John Jones,JOHN.JONES@EXAMPLE.COM,,10/08/2023,AirPods,Electronics,5,145.31,Shipped
+1156,Robert Lee,robert.lee@example.com,973.802.9955,2023-04-10,PYTHON PROGRAMMING,BOOKS,5,$338.38,Delivered
+#1185,Daniel Rodriguez,  daniel.rodriguez@example.com  ,+1-851-777-8126,"Jun 27, 2023",Mens T-shirt,Clothing,9,,Canceled
+ORD1186,Linda Martinez,linda.martinez@example.com,(455) 367-7385,17-11-2023,VacuumCleaner,Home & Garden,8,,P
+ORD-1143,Matthew  Moore,MATTHEW.MOORE@EXAMPLE.COM,,10-01-2023,running shoes,Clothing,1,231.35,Pending
+1188,John Davis,john.davis@example.com,5806741519,03/16/2023,Vacuum Cleaner,Home & Garden,7,$498.66,Shippd
+ORD1189,Thomas Davis,  thomas.davis@example.com  ,5988976113,17 January 2024,Macbook Pro,Electronics,4,$584.22,CANCELLED
+order1157,DAVID JOHNSON,,(830) 877-5934,2023-02-07,Men's T-Shirt,Clothing,6,$140.5,DELIVERED
+1191,Jane Martin,jane.martin@example.com,711.293.6544,20 March 2023,SamsungGalaxy,Electronics,8,$442.57,CANCELLED
+1192,William Johnson,william.johnson@example.com,756.556.6303,03 November 2023,mens tshirt,Clothing,9,$233.63,P
+order1193,Matthew Davis,matthew.davis@example.com,3578275638,19 February 2023,iphone 13,Electronics,10,388.62,PENDING
+#1194,Michael Smith,michael.smith@example.com,+1-854-262-6913,07/08/2023,Coffee Maker,Home & Garden,2,437.84,Ship
+order1195,Linda Brown,linda.brown@example.com,+1-370-384-7579,"Nov 04, 2023",VacuumCleaner,Home & Garden,6,368.95,DELIVERED
+ORD-1196,Thomas Wilson,thomas.wilson@example.com,5074274519,02/12/2026,Coffee Maker,home & garden,4,$147.46,CNCLLD
+#1197,Michael Hernandez,michael.hernandez@example.com,(297)-809-5921,02/10/2023,Vaccuum Cleaner,Home & Garden,10,557.9,PENDING
+#1198,David Hernandez,david.hernandez@example.com,(970)-809-9269,21-07-2023,Jeans,Clothing,7,$306.07,Shippd
+#1199,Christopher Wilson,christopher.wilson@example.com,4729958046,"Feb 27, 2023",data science handbook,books,0,189.83,Shippd
+ORD-1129,Daniel Rodriguez,invalidemail,7023571893,11/27/2025,vacuum cleaner,HOME & GARDEN,2,191.92,cancelled
+#1201,Michael Brown,michael.brown@example.com,2145512823,,running shoes,Clothing,3,420.08,delivered
+ORD-1129,Daniel Rodriguez,invalidemail,7023571893,11/27/2025,vacuum cleaner,HOME & GARDEN,2,191.92,cancelled
+#1194,Michael Smith,MICHAEL.SMITH@EXAMPLE.COM,+1-854-262-6913,07/08/2023,Coffee Maker,Home & Garden,2,437.84,Ship
+#1204,jennifer brown,jennifer.brown@example.com,(696)-811-9709,23 August 2023,iphone 13,Electronics,1,214.59,Delivered
+ORD-1205,Richard Smith,richard.smith@example.com,,14 December 2023,jeans,Clothing,8,$329.91,Ship
+#1206,Robert	Jones,robert.jones@example.com,(778)-361-6201,02-03-2023,Coffee Maker,Home & Garden,8,449.9,Shipped
+order1158,Robert Lee,  robert.lee@example.com  ,(857)-828-4994,"Feb 28, 2023",Vacuum Cleaner,Home & Garden,8,297.2,pending
+#1208,  Michelle  Lee  ,michelle.lee@example.com,714.819.8680,"Jul 18, 2023",Python Programming,Books,7,141.3,CNCLLD
+1209,James Taylor,james taylor@email.com,+1-603-826-9784,20 January 2023,AIRPODS,Electronics,-2,316.02,pending
+ORD-1210,Richard Martinez,richard.martinez@example.com,,"Nov 27, 2023",iphone 13,Electronics,7,$200.83,CNCLLD
+#1211,ROBERT TAYLOR,ROBERT.TAYLOR@EXAMPLE.COM,736.924.7292,"Mar 23, 2023",Python Programming,Books,3,115.52,CANCELLED
+ORD1212,Sarah Jones,sarah.jones@example.com,756-205-9084,"Aug 21, 2023",PYTHON PROGRAMMING,Books,9,$493.86,shipped
+#1185,Daniel Rodriguez,  daniel.rodriguez@example.com  ,+1-851-777-8126,"Jun 27, 2023",Mens T-shirt,Clothing,9,,Canceled
+ORD1214,Matthew Martinez,,+1-365-888-5659,21 October 2023,JEANS,Clothing,7,493.95,cancelled
+1182,Jessica Thomas,  jessica.thomas@example.com  ,,"Jun 22, 2023",Python Programming,BOOKS,10,390.33,Canceled
+order1216,Robert	Lee,robert.lee@example.com,+1-923-494-7996,22 October 2023,CoffeeMaker,Home & Garden,10,147.3,pending
+order1217,LINDA ANDERSON,linda.anderson@example.com,4602696042,01/04/2023,Vaccuum Cleaner,Home & Garden,0,113.61,pending
+1218,Thomas Jackson,thomas.jackson@example.com,+1-506-778-6169,2023-12-17,coffee maker,Home & Garden,3,346.87,Delivered
+ORD-1219,Michael Thomas,MICHAEL.THOMAS@EXAMPLE.COM,,"Feb 17, 2023",airpods,Elec,3,$463.98,shipped
+order1220,Thomas Wilson,,2459032426,2023-09-24,macbook pro,Electronics,8,405.95,pending
+order1221,DANIEL HERNANDEZ,invalidemail,753-654-1831,02/10/2026,iPhone13,Elec,8,373.62,Pnding
+1222,MICHAEL TAYLOR,  michael.taylor@example.com  ,572.601.4004,"Jun 16, 2023",Python Programming,Books,6,$366.61,Pnding
+ORD1223,Sarah Hernandez,sarah.hernandez@example.com,835-449-9977,24-06-2023,DataScience Handbook,Books,2,446.22,Complete
+ORD-1129,Daniel Rodriguez,invalidemail,7023571893,11/27/2025,vacuum cleaner,HOME & GARDEN,2,191.92,cancelled
+order1181,Emily Anderson,emily.anderson@example.com,(781)-248-7527,"May 11, 2023",Air Pods,electronics,1,252.93,SHIPPED
+ORD1226,James Thomas,,794-973-1003,"May 30, 2023",Python Programming,Books,5,551.91,P
+ORD1227,Richard Jones,  richard.jones@example.com  ,(567)-312-5623,2023-07-21,data science handbook,Books,9,236.9,shipped
+ORD-1219,Michael Thomas,MICHAEL.THOMAS@EXAMPLE.COM,,"Feb 17, 2023",airpods,Elec,3,$463.98,shipped
+1229,linda jones,linda.jones@example.com,+1-665-721-7948,26-04-2023,PYTHON PROGRAMMING,Books,9,$350.04,P
+ORD1230,Jennifer Brown,,(968) 997-5578,11/09/2023,Jeans,Clothing,6,$325.66,CNCLLD
+ORD-1231,Michelle Hernandez,invalidemail,(944)-777-5267,10/21/2023,COFFEE MAKER,Home & Garden,5,88.19,P
+ORD-1232,Michelle Jones,michelle.jones@example.com,(740)-233-6617,"Mar 20, 2023",Data Science Handbook,Books,6,42.04,Canceled
+1233,christopher jackson,christopher.jackson@example.com,+1-659-591-6172,2023-09-30,data science handbook,Books,4,443.23,SHIPPED
+order1234,John Williams,,4249425641,,Iphone 13,Electronics,2,60.96,Shipped
+ORD1235,William Martinez,WILLIAM.MARTINEZ@EXAMPLE.COM,9889886298,02/02/2024,data science handbook,Books,2,300.11,Ship
+1236,Robert Lee,robert.lee,,"Jan 10, 2023",Running Shoes,Clothing,7,349.03,P
+ORD-1237,Richard	Thomas,  richard.thomas@example.com  ,(574)-747-6571,29-05-2023,Running Shoes,Clothing,2,$382.05,cancelled
+ORD-1129,Daniel Rodriguez,invalidemail,7023571893,11/27/2025,vacuum cleaner,HOME & GARDEN,2,191.92,cancelled
+ORD-1239,Richard Williams,richard.williams@example.com,(216)-237-6558,07/27/2023,RunningShoes,Clothing,4,$555.63,Shippd
+ORD1240,  Christopher  Lee  ,@lee.com,+1-299-667-3796,"Feb 28, 2023",mens tshirt,Clothing,6,81.26,Shipped
+1241,  James  Williams  ,JAMES.WILLIAMS@EXAMPLE.COM,336-302-7162,01/17/2026,iPhone 13,Electronics,8,$418.48,Complete
+ORD1242,Lisa Garcia,lisa.garcia@example.com,,08/03/2023,Men's T-Shirt,Clothing,9,309.44,pending
+ORD1243,Christopher Thomas,christopher.thomas@example.com,(976)-664-1709,01-04-2023,AirPods,ELECTRONICS,4,450.77,Shippd
+1244,Richard	Davis,,421-824-8454,04-01-2024,vacuum cleaner,Home & Garden,-5,$45.18,Canceled
+order1245,James Davis,james.davis@example.com,(791)-766-4763,21 April 2023,data science handbook,Book,10,141.21,Cancelled
+ORD1226,James Thomas,,794-973-1003,"May 30, 2023",Python Programming,Books,5,551.91,P
+ORD1247,Richard Thomas,richard.thomas@example.com,,2023-03-09,Coffee Maker,home & garden,10,24.39,Deliverd
+order1248,JOHN WILLIAMS,,+1-476-914-9887,11 February 2023,COFFEE MAKER,Home & Garden,6,226.19,SHIPPED
+order1249,Sarah Thomas,sarah.thomas@example.com,+1-528-561-5380,2023-02-02,Vaccuum Cleaner,Home & Garden,9,540.67,pending
